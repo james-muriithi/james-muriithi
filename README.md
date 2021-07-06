@@ -4,8 +4,7 @@ Hello there 👋 I am <a href="https://james-muriithi.firebaseapp.com/">James Mu
 
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jam_es_muriithi?style=social) | ![GitHub User's stars](https://img.shields.io/github/stars/james-muriithi?style=social) | ![GitHub followers](https://img.shields.io/github/followers/james-muriithi?style=social) 
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605)
+![Twitter Follow](https://img.shields.io/twitter/follow/jam_es_muriithi?style=social) | ![GitHub followers](https://img.shields.io/github/followers/james-muriithi?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605)
 
 ## My Github Stats
 <a align="left" >
