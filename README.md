@@ -8,8 +8,8 @@ Hello there 👋 I am <a href="https://james-muriithi.firebaseapp.com/">James Mu
 
 ## My Github Stats
 <div style="display: flex;">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=james-muriithi&theme=gotham" style="width: 50%;" />
-<img src="https://github-readme-stats.vercel.app/api?username=james-muriithi&theme=gotham&custom_title=James%20github%20stats" style="width: 50%;" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=james-muriithi&theme=gotham" style="width: 45%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=james-muriithi&theme=gotham&custom_title=James%20github%20stats" style="width: 45%;" />
 </div>
 
 <div style="margin-top: 10px;">
