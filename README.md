@@ -15,6 +15,4 @@ Hello there 👋 I am <a href="https://james-muriithi.firebaseapp.com/">James Mu
     </div>
 </div>
 
-<div style="margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-muriithi&theme=gotham">
-</div>
+![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=james_muriithi&theme=gotham&layout=compact)
