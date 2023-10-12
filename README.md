@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello there 👋 I am <a href="https://james-muriithi.firebaseapp.com/">James Muriithi</a>!
+Hello there 👋 I am <a href="https://james-muthike.web.app/">James Muriithi</a>!
 </h1>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/jam_es_muriithi?style=social) | ![GitHub followers](https://img.shields.io/github/followers/james-muriithi?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605)
